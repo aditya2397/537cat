@@ -26,7 +26,7 @@ compiler doesn't check comments, so I might write complete nonsense in the
 comments and confuse you. With no comments, you're guaranteed that the compiler
 agrees with everything I've said in my code.
 
-Instead of writing comments, I've focused on:
+Instead of writing comments, I:
 
 * have descriptive identifier names
 * write many short functions that do one (and only one) task well
