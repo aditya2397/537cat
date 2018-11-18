@@ -21,7 +21,7 @@ those not tech savvy) can understand their mistake and fix it.
 # No Comments
 The `.c` and `.h` files don't have any comments, because I believe that if I
 could not explain things well in a programming language like C, I probably
-won't do any better with comments in a natural language in English. Plus, the
+won't do any better with comments in a natural language (English). Plus, the
 compiler doesn't check comments, so I might write complete nonsense in the
 comments and confuse you. With no comments, you're guaranteed that the compiler
 agrees with everything I've said in my code.
